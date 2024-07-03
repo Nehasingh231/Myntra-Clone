@@ -1,0 +1,21 @@
+####### HTML
+   Doctypee html means it tells us that my document is written in html .
+
+      head is parent of meta data means information about data is meta data.
+
+       symmentic tags - symmentics tags are footer ,header.main we use this to make our code readdable
+                        
+
+                 div is a block elemnt but span is inline element we cn fix height and width in div but not in span ..span contains onlt that heigh and width what content needed       
+                 div starts from line but inline not
+
+
+                 cascading means whatever is written above is overwritten by below it is basically cascading rule.
+                 specifity is based on selector id has more specifity.
+
+                 combine sleector means like we have  apragraoh and we rae giving id to it heading and if we are stylong this like # heading or p # heading then there is max specifity of p# heading than #heading.
+
+                 psuedo element -- before after
+                 psuedo class -- hover active th of class
+
+            
